@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Credit To : Augus X";
-	Text = "Script aded!";
+	Text = "Script a!";
 	Icon = "rbxthumb://type=Asset&id=6038460241&w=150&h=150";
 } )
 
@@ -18,8 +18,8 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(255, 0, 0),
-			Second = Color3.fromRGB(255, 0, 0),
+			Main = Color3.fromRGB(0, 0, 0),
+			Second = Color3.fromRGB(0, 0, 0),
 			Stroke = Color3.fromRGB(60, 60, 60),
 			Divider = Color3.fromRGB(60, 60, 60),
 			Text = Color3.fromRGB(240, 240, 240),
