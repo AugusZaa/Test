@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Credit To : Augus X";
-	Text = "Script Loaded!";
+	Text = "Script aded!";
 	Icon = "rbxthumb://type=Asset&id=6038460241&w=150&h=150";
 } )
 
