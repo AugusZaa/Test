@@ -1,3 +1,9 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Credit To : Augus X";
+	Text = "Script Loaded!";
+	Icon = "rbxthumb://type=Asset&id=6038460241&w=150&h=150";
+} )
+
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
